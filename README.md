@@ -1,12 +1,12 @@
 # Emojize
 
-Type ":1st_place_medal:"
+Input :1st_place_medal:
 Output: 🥇
 
-Type ":money_bag:"
+Input :money_bag:
 Output: 💰
 
-Type ":smile_cat:"
+Input :smile_cat:
 
 Output: 😸
 
